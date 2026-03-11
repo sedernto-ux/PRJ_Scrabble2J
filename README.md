@@ -8,3 +8,7 @@ projet SCRABBLE mode 2 joueur
 - la partie se termine lorsque les joueurs ont proposé chacun 10 mots. Le nom du gagnant est alors affiché par 
 l’application. Les 10 mots du joueur gagnant ainsi que le mot qui a rapporté le plus grand nombre de points sont 
 affichés également.
+
+
+
+https://www.figma.com/make/a9s4C3HleMzCZGxjmh0QYP/Scrabble-Game-Interface?t=Cu8glY80FRhZSHc6-20&fullscreen=1
